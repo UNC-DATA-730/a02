@@ -11,6 +11,6 @@ Complete the assignment [Jupyter notebook 📓](assignment3.ipynb) and push your
 From a terminal in Jupyter Lab, run the following command:
 
 ```bash
-# Make sure your prompt is located in your assignment 2 repository directory
+# Make sure your prompt is located in your assignment 3 repository directory
 conda env update --name data730 --file environment.yml
 ```
